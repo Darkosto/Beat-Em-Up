@@ -1,0 +1,3 @@
+<challenges version="2">
+<challenge id="2" name="Beat 'Em Up" endstage="6" startingitems="400, 243" playertype="16" difficulty="1" roomfilter="4,9" canshoot="false"/>
+</challenges>
